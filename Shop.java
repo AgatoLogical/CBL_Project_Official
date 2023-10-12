@@ -1,3 +1,3 @@
 public class Shop {
-    public int c = 123;
+    public int c = 678;
 }
